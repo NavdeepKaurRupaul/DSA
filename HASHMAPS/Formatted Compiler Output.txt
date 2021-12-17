@@ -1,0 +1,4 @@
+C:\Users\dell\Desktop\Programs Data Stru & Algo\HASHMAPS\Our HashMap.cpp	In member function 'void ourmap<V>::insert(std::string, V)':
+61	45	C:\Users\dell\Desktop\Programs Data Stru & Algo\HASHMAPS\Our HashMap.cpp	[Error] expected primary-expression before 'key'
+61	48	C:\Users\dell\Desktop\Programs Data Stru & Algo\HASHMAPS\Our HashMap.cpp	[Error] there are no arguments to 'getBucketindex' that depend on a template parameter, so a declaration of 'getBucketindex' must be available [-fpermissive]
+61	48	C:\Users\dell\Desktop\Programs Data Stru & Algo\HASHMAPS\Our HashMap.cpp	[Note] (if you use '-fpermissive', G++ will accept your code, but allowing the use of an undeclared name is deprecated)
